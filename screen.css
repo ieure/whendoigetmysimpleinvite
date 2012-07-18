@@ -1,0 +1,25 @@
+body {
+    margin: 1em;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    position: relative;
+}
+
+h1 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans serif;
+    -webkit-text-stroke: 2pt black;
+    color: white;
+    font-weight: bold;
+    font-size: 72pt;
+    text-transform: uppercase;
+    text-align: center;
+    margin: auto 0;
+    position: relative;
+    top: -1.5em;
+}
